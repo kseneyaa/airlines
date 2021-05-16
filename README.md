@@ -5,7 +5,8 @@ Steps:
 1. Get data from the source 
 2. Parsing data and write in appropriate format (csv) 
 3. Merging and cleaning dataset obtained from different sources
-4. Testing hypothesis to find potential spies
+The result of each step is available on link https://drive.google.com/drive/folders/1NM9PucGYbqSo4hn2lPJGag4kdhu4OqxM?usp=sharing
+5. Testing hypothesis to find potential spies
 
 Our team:
 1. Zakirova Kseniya
