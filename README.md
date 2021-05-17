@@ -8,7 +8,9 @@ https://drive.google.com/drive/folders/19bCT5pKF-QnfW05FW0Eb2dUsMrrnbUSD
 4. Merging and cleaning dataset obtained from different sources
 The result of each step is available on link https://drive.google.com/drive/folders/1NM9PucGYbqSo4hn2lPJGag4kdhu4OqxM?usp=sharing
 5. Testing hypothesis to find potential spies. 
+
 Scripts with testing in hypothesis/script/
+
 The final lists with potential russian spies in hypothesis/data/
 
 
