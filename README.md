@@ -19,3 +19,5 @@ Our team:
 2. Vampilova Erzhena
 3. Boltinskaya Elizavetta
 4. Kikot Alena
+
+*The final list (after all possible mergings) of spies available in hypothesis/final_list
